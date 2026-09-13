@@ -56,4 +56,6 @@ I also like cats.
 
 You know what? Have a random cat:
 
-![Random Cat](https://cataas.com/cat)
+![Cat](https://cataas.com/cat)
+
+<sub>GitHub likes caching images, so this cat may stick around for a while.</sub>
