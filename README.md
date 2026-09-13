@@ -8,7 +8,7 @@ I like building things to better understand how they work, even if the result is
 
 ## What I Work With
 
-- PLC programming & commissioning
+- PLC programming & commissioning (mosty Siemens TIA Portal) 
 - Industrial automation
 - ESP32 and microcontrollers
 - C / C++
