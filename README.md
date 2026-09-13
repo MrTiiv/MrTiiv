@@ -12,6 +12,8 @@ If something I publish is **not marked as AI-assisted**, then AI did not contrib
 
 I want people to clearly know what was made by me and what was created with the help of AI.
 
+AI-generated code should not be blindly copied and trusted without any testing or review. I try to test and check AI-generated code as much as reasonably possible, but I do not claim that every part has been reviewed or verified 100%.
+
 ## My Stance on AI
 
 While I use AI as a programming tool, I strongly oppose using AI to copy, imitate, or take credit for other people's projects, artwork, or creative work.
