@@ -1,10 +1,32 @@
 # About Me
 
-I really enjoy **microelectronics** and experimenting with new projects, sometimes with the help of AI.
+I'm a **PLC Programmer & Commissioning Engineer** with a strong interest in **microelectronics and automation**.
 
-I use AI as a programming and development tool from time to time, but I believe its use should always be transparent.
+Outside of work, I enjoy experimenting with microcontrollers, electronics, and small software projects — sometimes with the help of AI.
+
+I like building things to better understand how they work, even if the result is sometimes more experimental than polished.
+
+## What I Work With
+
+- PLC programming & commissioning
+- Industrial automation
+- ESP32 and microcontrollers
+- C / C++
+- Python
+
+## Current Interests
+
+Right now, I'm especially interested in:
+
+- ESP32-based projects
+- Small tools that solve practical problems
+- Learning more about electronics and embedded development
+
+---
 
 ## AI Transparency
+
+I use AI as a programming and development tool from time to time, but I believe its use should always be transparent.
 
 If AI was used to create or significantly contribute to one of my projects, repositories, or other work, **I will clearly mark it as AI-assisted or AI-generated**.
 
@@ -12,7 +34,7 @@ If something I publish is **not marked as AI-assisted**, then AI did not contrib
 
 I want people to clearly know what was made by me and what was created with the help of AI.
 
-AI-generated code should not be blindly copied and trusted without any testing or review. I try to test and check AI-generated code as much as reasonably possible, but I do not claim that every part has been reviewed or verified 100%.
+AI-generated code should not be blindly copied or trusted without any testing or review. I try to test and check AI-generated code as much as reasonably possible, but I do not claim that every part has been reviewed or verified 100%.
 
 ## My Stance on AI
 
@@ -23,3 +45,15 @@ I am personally against the generation of AI-created images and artwork, especia
 Whenever possible, I prefer to support **human artists and creators** and respect the time, skill, and creativity behind their work.
 
 **AI should be a tool — not an excuse to take someone else's work.**
+
+---
+
+## A Few Random Things
+
+I really like **Jinx from Arcane**.
+
+I also like cats.
+
+You know what? Have a random cat:
+
+![Random Cat](https://cataas.com/cat)
