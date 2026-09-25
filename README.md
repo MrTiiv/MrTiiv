@@ -1,6 +1,6 @@
 # About Me
 
-I'm a **PLC Programmer & Commissioning Engineer** with a strong interest in **microelectronics and automation**.
+I'm a trained Electronics Technician currently working as **PLC Programmer & Commissioning Engineer** with a strong interest in **microelectronics and automation**.
 
 Outside of work, I enjoy experimenting with microcontrollers, electronics, and small software projects — sometimes with the help of AI.
 
