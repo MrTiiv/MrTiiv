@@ -2,7 +2,7 @@
 
 I'm a trained Electronics Technician currently working as **PLC Programmer & Commissioning Engineer** with a strong interest in **microelectronics and automation**.
 
-Outside of work, I enjoy experimenting with microcontrollers, electronics, and small software projects — sometimes with the help of AI.
+Outside of work, I enjoy experimenting with microcontrollers, electronics, and small software projects sometimes with the help of AI.
 
 I like building things to better understand how they work, even if the result is sometimes more experimental than polished.
 
